@@ -29,3 +29,6 @@ Screenshots of the dashboard (optional)
 
 🚀 Goal:
 To build an intuitive and data-driven visualization that helps understand Netflix’s content strategy, trends, and audience preferences.
+
+
+My LinkedIN Profile : https://www.linkedin.com/in/punamsakalikar/
